@@ -1,0 +1,28 @@
+﻿  btKinematicCharacterController.cpp
+  btConeTwistConstraint.cpp
+  btContactConstraint.cpp
+  btGearConstraint.cpp
+  btGeneric6DofConstraint.cpp
+  btGeneric6DofSpringConstraint.cpp
+  btHinge2Constraint.cpp
+  btHingeConstraint.cpp
+  btPoint2PointConstraint.cpp
+  btSequentialImpulseConstraintSolver.cpp
+  btSliderConstraint.cpp
+  btSolve2LinearConstraint.cpp
+C:\Users\xy\Downloads\Baller-main\Bullet\src\BulletDynamics\ConstraintSolver\btContactConstraint.h(25,28): warning C4359: 'btContactConstraint': Alignment specifier is less than actual alignment (128), and will be ignored. (compiling source file ..\..\src\BulletDynamics\ConstraintSolver\btContactConstraint.cpp)
+C:\Users\xy\Downloads\Baller-main\Bullet\src\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(860,21): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xy\Downloads\Baller-main\Bullet\src\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(905,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\xy\Downloads\Baller-main\Bullet\src\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(965,13): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xy\Downloads\Baller-main\Bullet\src\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(967,8): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+  btTypedConstraint.cpp
+  btUniversalConstraint.cpp
+  btDiscreteDynamicsWorld.cpp
+  btRigidBody.cpp
+  btSimpleDynamicsWorld.cpp
+  Bullet-C-API.cpp
+  btRaycastVehicle.cpp
+  btWheelInfo.cpp
+C:\Users\xy\Downloads\Baller-main\Bullet\src\BulletDynamics\ConstraintSolver\btContactConstraint.h(25,28): warning C4359: 'btContactConstraint': Alignment specifier is less than actual alignment (128), and will be ignored. (compiling source file ..\..\src\BulletDynamics\Dynamics\btDiscreteDynamicsWorld.cpp)
+C:\Users\xy\Downloads\Baller-main\Bullet\src\BulletDynamics\ConstraintSolver\btContactConstraint.h(25,28): warning C4359: 'btContactConstraint': Alignment specifier is less than actual alignment (128), and will be ignored. (compiling source file ..\..\src\BulletDynamics\Vehicle\btRaycastVehicle.cpp)
+  BulletDynamics.vcxproj -> C:\Users\xy\Downloads\Baller-main\Bullet\lib\BulletDynamics_vs2010_x64_release.lib

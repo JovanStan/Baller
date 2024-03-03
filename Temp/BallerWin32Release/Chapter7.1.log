@@ -1,0 +1,40 @@
+﻿  BulletOpenGLApplication.cpp
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(141,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(293,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(317,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(318,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(494,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(494,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(666,102): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(666,127): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(667,102): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(667,128): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(668,75): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(668,125): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(679,121): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(691,68): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(713,67): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(895,57): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(897,58): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(899,58): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(901,60): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(903,60): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(906,56): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(909,56): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(912,56): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(915,56): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(1054,34): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(1111,42): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(1211,31): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(1373,35): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(1787,76): warning C4316: 'GameObject': object allocated on the heap may not be aligned 16
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(1798,76): warning C4316: 'GameObject': object allocated on the heap may not be aligned 16
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(1809,76): warning C4316: 'GameObject': object allocated on the heap may not be aligned 16
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(1822,81): warning C4316: 'GameObject': object allocated on the heap may not be aligned 16
+C:\Users\xy\Downloads\Baller-main\Baller\Chapter7.1\BulletOpenGLApplication.cpp(1833,93): warning C4316: 'GameObject': object allocated on the heap may not be aligned 16
+  Generating code
+  8 of 549 functions ( 1.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Chapter7.1.vcxproj -> C:\Users\xy\Downloads\Baller-main\Lib\Win32Release\Baller.exe

@@ -1,0 +1,20 @@
+﻿  btAlignedAllocator.cpp
+  btConvexHull.cpp
+  btConvexHullComputer.cpp
+  btGeometryUtil.cpp
+  btPolarDecomposition.cpp
+  btQuickprof.cpp
+  btSerializer.cpp
+  btVector3.cpp
+C:\Users\xy\Downloads\Baller-main\Bullet\src\LinearMath\btVector3.cpp(46,51): warning C4838: conversion from 'int' to 'const unsigned char' requires a narrowing conversion
+C:\Users\xy\Downloads\Baller-main\Bullet\src\LinearMath\btVector3.cpp(171,60): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\xy\Downloads\Baller-main\Bullet\src\LinearMath\btVector3.cpp(176,14): warning C4267: '-=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\xy\Downloads\Baller-main\Bullet\src\LinearMath\btVector3.cpp(419,56): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\xy\Downloads\Baller-main\Bullet\src\LinearMath\btVector3.cpp(431,51): warning C4838: conversion from 'int' to 'const unsigned char' requires a narrowing conversion
+C:\Users\xy\Downloads\Baller-main\Bullet\src\LinearMath\btVector3.cpp(556,60): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\xy\Downloads\Baller-main\Bullet\src\LinearMath\btVector3.cpp(561,14): warning C4267: '-=': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\xy\Downloads\Baller-main\Bullet\src\LinearMath\btVector3.cpp(807,56): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\xy\Downloads\Baller-main\Bullet\src\LinearMath\btPolarDecomposition.cpp(63,36): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xy\Downloads\Baller-main\Bullet\src\LinearMath\btPolarDecomposition.cpp(63,30): warning C4244: 'initializing': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xy\Downloads\Baller-main\Bullet\src\LinearMath\btPolarDecomposition.cpp(66,43): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+  LinearMath.vcxproj -> C:\Users\xy\Downloads\Baller-main\Bullet\lib\LinearMath_vs2010_x64_release.lib
